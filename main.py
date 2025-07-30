@@ -22,3 +22,5 @@ def divisao(a,b):
 
 dividindo = divisao(5,5)
 print(dividindo)
+
+print("aprendendo git definitivamente")
