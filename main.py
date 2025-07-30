@@ -8,3 +8,6 @@ def multiplicar(a,b):
 
 multiplciar = multiplicar(5,5)
 print(multiplciar)
+
+def divisao(a,b):
+     return a / b
