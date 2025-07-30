@@ -5,6 +5,12 @@ def somar(a,b):
 somando = somar(5,5)
 print(somando)
 
+def subtrair(a,b):
+     return a - b
+
+subitraindo = subtrair(5,5)
+print(subitraindo)
+
 def multiplicar(a,b):
      return a * b
 
