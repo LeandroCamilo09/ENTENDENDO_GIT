@@ -5,3 +5,6 @@ def somar(a,b):
 
 def multiplicar(a,b):
      return a + b
+
+multiplciar = multiplicar(5,5)
+print(multiplciar)
