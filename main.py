@@ -2,12 +2,17 @@ print("Hello Word")
 def somar(a,b):
      return a + b
 
+somando = somar(5,5)
+print(somando)
 
 def multiplicar(a,b):
-     return a + b
+     return a * b
 
-multiplciar = multiplicar(5,5)
-print(multiplciar)
+multiplcando = multiplicar(5,5)
+print(multiplcando)
 
 def divisao(a,b):
      return a / b
+
+dividindo = divisao(5,5)
+print(dividindo)
