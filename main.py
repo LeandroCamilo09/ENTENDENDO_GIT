@@ -24,5 +24,6 @@ dividindo = divisao(5,5)
 print(dividindo)
 
 print("aprendendo git definitivamente")
-print("praticando git")
-print("praticando git")
+print("praticando git1")
+print("praticando git2")
+print("praticando git3")
