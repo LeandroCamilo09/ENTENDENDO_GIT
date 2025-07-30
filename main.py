@@ -25,3 +25,4 @@ print(dividindo)
 
 print("aprendendo git definitivamente")
 print("praticando git")
+print("praticando git")
